@@ -1,0 +1,6 @@
+- 👋 Hi, I’m $hodiyor
+- 👀 I’m interested in backend and web
+- 🌱 I’m currently learning C# and React
+- 💞️ I Would like to cooperate with those who want a website
+- ⚡ Fun fact: i know Javascript, HTML, CSS, python and C#
+- 🌱 Discounts are available if a websitebis requored
